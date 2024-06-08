@@ -74,6 +74,9 @@ module.exports = {
       },
       fontFamily: {
         'montserrat': ["Montserrat", "sans-serif"]
+      },
+      backgroundImage: {
+        'principal': "url('./src/assets/background.jpg')"
       }
     },
   },
