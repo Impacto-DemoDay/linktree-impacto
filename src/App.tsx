@@ -1,9 +1,5 @@
-function App() {
-  
-
-  return (
-    <h1>Hello World!</h1>
-  )
+export default function App() {
+  return <div>
+    <h4 className="text-3xl font-bold underline">Projeto Impacto</h4>
+  </div>;
 }
-
-export default App
