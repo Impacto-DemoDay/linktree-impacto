@@ -97,7 +97,7 @@ export default function App() {
         <img src={logo} alt="Logo da Impacto" />
       </figure>
       <div className="mt-7 font-bold text-3xl text-center text-[#15406B]">
-        <h2>Unindo causas</h2>
+        <h2>Unindo causas,</h2>
         <h2>Transformando vidas!</h2>
       </div>
       <div className="mt-4 flex gap-3">
