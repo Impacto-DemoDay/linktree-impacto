@@ -79,6 +79,9 @@ module.exports = {
         'principal': "url('./src/assets/background.jpg')"
       }
     },
+    screens: {
+      'card-break': '1470px'
+    }
   },
   plugins: [require("tailwindcss-animate")],
 }

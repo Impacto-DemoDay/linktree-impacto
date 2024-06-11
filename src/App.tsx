@@ -115,7 +115,7 @@ export default function App() {
       <div className='mt-7 font-bold text-2xl text-center text-[#15406B]'>
         <h3>Conheça a equipe Impacto</h3>
       </div>
-      <div className="mt-7 flex lg:grid flex-col md:grid-cols-2 w-5/12 justify-items-center gap-y-4 place-items-center">
+      <div className="mt-7 flex card-break:grid flex-col md:grid-cols-2 w-5/12 justify-items-center gap-y-4 place-items-center">
       {colaboradoresImpacto.map((impactante, index) => (
             <div
               key={index}
