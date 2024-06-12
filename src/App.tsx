@@ -20,7 +20,7 @@ const colaboradoresImpacto = [
   {
     nome: "Celina Wendy",
     image: Celina,
-    cargo: "Frontend",
+    cargo: "Front end",
     redes: {
       instagram: "https://www.instagram.com/wen_zegarra/",
       github: "https://github.com/Celina22w",
@@ -30,7 +30,7 @@ const colaboradoresImpacto = [
   {
     nome: "Fabio Henrique",
     image: Fabio,
-    cargo: "Backend",
+    cargo: "Back end",
     redes: {
       instagram: "https://www.instagram.com/henrique_fhsilva/",
       github: "https://github.com/FH-Silva",
@@ -40,7 +40,7 @@ const colaboradoresImpacto = [
   {
     nome: "Gabriel Braz",
     image: Gabriel,
-    cargo: "Scrum Master e FullStack",
+    cargo: "Scrum Master e Full Stack",
     redes: {
       github: "https://github.com/bieelbrz",
       linkedin: "https://www.linkedin.com/in/gabbraz/"
@@ -49,7 +49,7 @@ const colaboradoresImpacto = [
   {
     nome: "Gustavo Sales",
     image: Gustavo,
-    cargo: "Q.A e Fullstack",
+    cargo: "Q.A e Full stack",
     redes: {
       instagram: "https://www.instagram.com/devgusales/",
       github: "https://github.com/Gusales",
@@ -59,7 +59,7 @@ const colaboradoresImpacto = [
   {
     nome: "Helen Silva",
     image: Helen,
-    cargo: "UX/UI, Financeira e Frontend",
+    cargo: "UX/UI, Financeira e Front end",
     redes: {
       instagram: "https://www.instagram.com/_aart.girl/",
       github: "https://github.com/helenrocha19",
@@ -69,7 +69,7 @@ const colaboradoresImpacto = [
   {
     nome: "Kauã Dolores",
     image: Kaua,
-    cargo: "Backend e DevOps",
+    cargo: "Back end e DevOps",
     redes: {
       instagram: "https://www.instagram.com/doloresskaua22/",
       github: "https://github.com/Kauadoloress",
@@ -79,7 +79,7 @@ const colaboradoresImpacto = [
   {
     nome: "Lucas Tomaz",
     image: Lucas,
-    cargo: "Product Owner, UX/UI e Frontend",
+    cargo: "Product Owner, UX/UI e Front end",
     redes: {
       instagram: "https://www.instagram.com/_lucastomazz_/",
       github: "https://github.com/LucasLTM",
