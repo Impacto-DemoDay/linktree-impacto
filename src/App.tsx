@@ -109,8 +109,8 @@ export default function App() {
         </a>
       </div>
       <div className="w-[80%] md:w-2/5 mt-4 space-y-6">
-        <LinkButton linkButtonIcon={WWW} linkButtonTitulo="Plataforma" linkParaRedirecionar="#" />
-        <LinkButton linkButtonIcon={dossie} linkButtonTitulo="Dossiê" linkParaRedirecionar="#" />
+        <LinkButton linkButtonIcon={WWW} linkButtonTitulo="Plataforma" href="#" />
+        <LinkButton linkButtonIcon={dossie} linkButtonTitulo="Dossiê" href="https://lucasltm.github.io/dossie-impacto/" />
       </div>
       <div className='mt-7 font-bold text-2xl text-center text-[#15406B]'>
         <h3>Conheça a equipe Impacto</h3>
@@ -132,7 +132,7 @@ export default function App() {
           ))}
       </div>
       <div className='w-[80%] md:w-2/5 mt-4 space-y-6 pb-4'>
-        <LinkButton linkButtonIcon={Balao} linkButtonTitulo='Fale Conosco' linkParaRedirecionar='mailto:projeto.impactosocial@gmail.com' />
+        <LinkButton linkButtonIcon={Balao} linkButtonTitulo='Fale Conosco' href="mailto:projeto.impactosocial@gmail.com" />
       </div>
     </div>
     </>
